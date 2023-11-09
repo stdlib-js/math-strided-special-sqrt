@@ -216,6 +216,15 @@ for ( i = 0; i < dt.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-strided/special/cbrt`][@stdlib/math/strided/special/cbrt]</span><span class="delimiter">: </span><span class="description">compute the cube root of each element in a strided array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/dsqrt`][@stdlib/math/strided/special/dsqrt]</span><span class="delimiter">: </span><span class="description">compute the principal square root for each element in a double-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/rsqrt`][@stdlib/math/strided/special/rsqrt]</span><span class="delimiter">: </span><span class="description">compute the reciprocal square root for each element in a strided array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/ssqrt`][@stdlib/math/strided/special/ssqrt]</span><span class="delimiter">: </span><span class="description">compute the principal square root for each element in a single-precision floating-point strided array.</span>
+
 </section>
 
 <!-- /.related -->
@@ -294,6 +303,18 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [@stdlib/math/base/special/sqrt]: https://github.com/stdlib-js/math-base-special-sqrt
 
 [@stdlib/strided/dtypes]: https://github.com/stdlib-js/strided-dtypes
+
+<!-- <related-links> -->
+
+[@stdlib/math/strided/special/cbrt]: https://github.com/stdlib-js/math-strided-special-cbrt
+
+[@stdlib/math/strided/special/dsqrt]: https://github.com/stdlib-js/math-strided-special-dsqrt
+
+[@stdlib/math/strided/special/rsqrt]: https://github.com/stdlib-js/math-strided-special-rsqrt
+
+[@stdlib/math/strided/special/ssqrt]: https://github.com/stdlib-js/math-strided-special-ssqrt
+
+<!-- </related-links> -->
 
 </section>
 
